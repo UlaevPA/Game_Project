@@ -1,7 +1,6 @@
 package Heroes;
 import TypeOfHeroes.RangeHero;
-import Vector2;
-
+import Main.Vector2;
 public class Crossbower extends RangeHero {
 
     public Crossbower(String nameHero, int posX, int posY) {

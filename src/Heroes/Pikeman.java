@@ -1,7 +1,6 @@
 package Heroes;
-
+import Main.Vector2;
 import TypeOfHeroes.MeleeHero;
-import Vector2;
 
 public class Pikeman extends MeleeHero {
 

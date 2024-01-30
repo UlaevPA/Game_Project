@@ -1,7 +1,7 @@
 package TypeOfHeroes;
 
+import Main.Vector2;
 import Interfaces.GameI;
-import Vector2;
 
 import java.util.ArrayList;
 import java.util.Collections;

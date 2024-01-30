@@ -1,9 +1,6 @@
 package Heroes;
-
+import Main.Vector2;
 import TypeOfHeroes.RangeHero;
-import Vector2;
-
-import java.util.Random;
 
 public class Sniper extends RangeHero {
     public Sniper(String nameHero, int posX, int posY) {

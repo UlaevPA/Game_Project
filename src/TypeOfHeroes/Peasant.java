@@ -1,7 +1,6 @@
 package TypeOfHeroes;
 
-import Vector2;
-
+import Main.Vector2;
 import java.util.ArrayList;
 
 

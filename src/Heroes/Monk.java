@@ -1,7 +1,7 @@
 package Heroes;
-
+import Main.Vector2;
 import TypeOfHeroes.HealerHero;
-import Vector2;
+
 
 public class Monk extends HealerHero {
 
